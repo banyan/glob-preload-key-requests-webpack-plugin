@@ -1,0 +1,7 @@
+{
+  "name": "glob-critical-rendering-path-webpack-plugin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Kohei Hasegawa <ameutau@gmail.com>",
+  "license": "MIT"
+}
