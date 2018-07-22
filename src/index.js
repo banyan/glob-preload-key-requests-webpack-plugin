@@ -29,9 +29,6 @@ class GlobPreloadKeyRequestsPlugin {
       src,
     } = this.options;
 
-    console.log('this.options: ', this.options);
-    console.log('dest: ', dest);
-
     const cssRegex = new RegExp(cssGlobPatterns.join('|'));
     const jsRegex = new RegExp(jsGlobPatterns.join('|'));
 
