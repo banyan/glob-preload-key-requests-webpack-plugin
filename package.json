@@ -1,6 +1,6 @@
 {
   "name": "glob-preload-key-requests-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "src/index.js",
   "author": "Kohei Hasegawa <ameutau@gmail.com>",
   "license": "MIT"
